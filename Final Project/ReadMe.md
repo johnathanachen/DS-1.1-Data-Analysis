@@ -1,10 +1,10 @@
-# Final Project
+# Impact of Airbnb on Austin, TX 
 clean, investigate, and analyze a dataset
 
-Where your data came from
+## Data Source
 http://insideairbnb.com/get-the-data.html (Austin)
 
-What questions you were looking to answer
+## Questions
 - How is Airbnb really being used in and affecting your neighborhoods?
 - Can a vibe be described with each Austin neighborhood using listing descriptions?
 - What are the busiest times of the year to visit Austin? By how much do prices spike?
