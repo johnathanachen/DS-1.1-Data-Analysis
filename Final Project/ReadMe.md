@@ -5,8 +5,7 @@ clean, investigate, and analyze a dataset
 http://insideairbnb.com/get-the-data.html (Austin)
 
 ## Questions
-- How is Airbnb really being used in and affecting your neighborhoods?
-- Can a vibe be described with each Austin neighborhood using listing descriptions?
+
 - What are the busiest times of the year to visit Austin? By how much do prices spike?
 - Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Austin?
 - How does the income from Airbnb compare to a long-term lease?
